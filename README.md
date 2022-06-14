@@ -3,11 +3,9 @@
 
 ## Installation
 
-Öncelikle projeyi clonelayın.
-
 ```bash
 git clone https://github.com/doganaliyeniacun/eCommerceWebApi.git
 ```
 
 ## License
-[MIT](https://choosealicense.com/licenses/mit/)
+[MIT](https://github.com/doganaliyeniacun/eCommerceWebApi/blob/main/LICENSE)
